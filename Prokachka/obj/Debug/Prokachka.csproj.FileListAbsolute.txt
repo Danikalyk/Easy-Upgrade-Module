@@ -1,0 +1,10 @@
+C:\Users\79994\source\repos\Prokachka\bin\Debug\Prokachka.exe.config
+C:\Users\79994\source\repos\Prokachka\bin\Debug\Prokachka.exe
+C:\Users\79994\source\repos\Prokachka\bin\Debug\Prokachka.pdb
+C:\Users\79994\source\repos\Prokachka\obj\Debug\Prokachka.csproj.AssemblyReference.cache
+C:\Users\79994\source\repos\Prokachka\obj\Debug\Prokachka.Form1.resources
+C:\Users\79994\source\repos\Prokachka\obj\Debug\Prokachka.Properties.Resources.resources
+C:\Users\79994\source\repos\Prokachka\obj\Debug\Prokachka.csproj.GenerateResource.cache
+C:\Users\79994\source\repos\Prokachka\obj\Debug\Prokachka.csproj.CoreCompileInputs.cache
+C:\Users\79994\source\repos\Prokachka\obj\Debug\Prokachka.exe
+C:\Users\79994\source\repos\Prokachka\obj\Debug\Prokachka.pdb
